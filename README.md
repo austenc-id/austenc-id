@@ -1,4 +1,4 @@
 # Welcome
-[Personal Profile](austenc-id.github.io/profile)
+[Personal Profile](https://austenc-id.github.io/profile)
 
-[Professional Resume](austenc-id.github.io/resume)
+[Professional Resume](https://resume.atlaselectronica.info/)
