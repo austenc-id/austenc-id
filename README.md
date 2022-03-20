@@ -1,3 +1,4 @@
 # Welcome
 
-[resume](https://acmf-resume.herokuapp.com/)
+## Links
+### [Resume](https://acmf-resume.herokuapp.com/)
